@@ -14,8 +14,9 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: roy_blog
-baseurl: https://roycp.github.io/
+baseurl: "roy_blog" # the subpath of your site, e.g. /blog
+url: "https://roycp.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
 permalink: pretty
 
 # Pagination
@@ -226,8 +227,8 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
-  Twitter: twitter
+  GitHub: roycp
+  Twitter: rcruzp_326
   Weibo: weibo
 
 
