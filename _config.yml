@@ -14,10 +14,8 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-# baseurl: "roy_blog" # the subpath of your site, e.g. /blog
-# url: "https://roycp.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: ""
-url: ""
+baseurl: "roy_blog" # the subpath of your site, e.g. /blog
+url: "https://roycp.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 
